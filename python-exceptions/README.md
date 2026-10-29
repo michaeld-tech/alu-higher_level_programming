@@ -1,0 +1,1 @@
+- `0-safe_print_list.py`: Prints up to a specified number of list elements safely using try/except and returns the number printed.
